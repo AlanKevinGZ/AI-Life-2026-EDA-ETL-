@@ -22,23 +22,7 @@ This dataset explores the intersection of **Artificial Intelligence and higher e
 
 ---
 
-## 🗂️ Columns
 
-| Original | Español | Description |
-|---|---|---|
-| `Student_ID` | `ID_Estudiante` | Unique student identifier |
-| `Age` | `Edad` | Student age |
-| `Major` | `Carrera` | Field of study |
-| `Primary_AI_Tool` | `Herramienta_IA_Principal` | Main AI tool used (Claude, ChatGPT, Copilot) |
-| `Task_Frequency_Daily` | `Frecuencia_Tareas_Diaria` | Daily AI usage frequency |
-| `Main_Usage_Case` | `Caso_Uso_Principal` | Primary use case for AI |
-| `GPA_Baseline` | `Promedio_Base` | GPA before AI adoption |
-| `GPA_Post_AI` | `Promedio_Post_IA` | GPA after AI adoption |
-| `Time_Saved_Hours_Weekly` | `Horas_Ahorradas_Semanal` | Weekly hours saved using AI |
-| `AI_Ethics_Concern` | `Preocupación_Ética_IA` | Student's level of ethical concern about AI |
-| `Career_Confidence_Score` | `Puntuación_Confianza_Laboral` | Confidence score for AI-related career readiness |
-
----
 
 ## 🔍 Potential Use Cases
 
